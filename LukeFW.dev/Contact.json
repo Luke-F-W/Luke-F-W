@@ -1,0 +1,20 @@
+{
+  "Email": {
+    "display": "Luke@LukeFW.dev",
+    "url": "mailto:Luke@LukeFW.dev",
+    "lightImage": "assets/emaillogoblack.webp",
+    "darkImage": "assets/emaillogowhite.png"
+  },
+  "GitHub": {
+    "display": "Luke-F-W",
+    "url": "https://github.com/Luke-F-W",
+    "lightImage": "assets/githublogoblack.png",
+    "darkImage": "assets/githublogowhite.webp"
+  },
+  "LinkedIn": {
+    "display": "LukeFW",
+    "url": "https://www.linkedin.com/in/luke-f-w/",
+    "lightImage": "assets/linkedinlogoblack.png",
+    "darkImage": "assets/linkedinlogowhite.png"
+  }
+}
