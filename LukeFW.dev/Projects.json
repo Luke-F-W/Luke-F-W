@@ -4,19 +4,19 @@
       "name": "Civie.ie",
       "description": "Explore the people, decisions, votes and debates shaping Irish politics.",
       "url": "https://civie.ie",
-      "image": "assets/civie.png"
+      "image": "https://raw.githubusercontent.com/Luke-F-W/Luke-F-W/refs/heads/main/LukeFW.dev/ProjImages/civie.png"
     },
     {
       "name": "CatSpeak",
       "description": "A simple terminal ASCII cat that can speak your text in a cute way. Made in C. Similar to cowsay but with cats.",
       "url": "https://github.com/Luke-F-W/CatSpeak",
-      "image": "assets/Catspeak.jpg"
+      "image": "https://raw.githubusercontent.com/Luke-F-W/Luke-F-W/refs/heads/main/LukeFW.dev/ProjImages/Catspeak.jpg"
     },
     {
       "name": "NagiSphere",
       "description": "A Robocode robot that won Runner-Up at the Games Fleadh 2026 Robocode Competition. Made in Java.",
       "url": "https://github.com/Luke-F-W/NagiSphere-Games-Fleadh-2026",
-      "image": "assets/Nagisphere.jpg"
+      "image": "https://raw.githubusercontent.com/Luke-F-W/Luke-F-W/refs/heads/main/LukeFW.dev/ProjImages/NagiSphere.jpg"
     },
     {
       "name": "GitHub",
