@@ -3,18 +3,18 @@
     "display": "Luke@LukeFW.dev",
     "url": "mailto:Luke@LukeFW.dev",
     "darkImage": "https://raw.githubusercontent.com/Luke-F-W/Luke-F-W/refs/heads/main/LukeFW.dev/ProjImages/emaillogowhite.png",
-    "lightimage": "https://raw.githubusercontent.com/Luke-F-W/Luke-F-W/refs/heads/main/LukeFW.dev/ProjImages/emaillogoblack.webp"
+    "lightImage": "https://raw.githubusercontent.com/Luke-F-W/Luke-F-W/refs/heads/main/LukeFW.dev/ProjImages/emaillogoblack.webp"
   },
   "GitHub": {
     "display": "Luke-F-W",
     "url": "https://github.com/Luke-F-W",
     "darkImage": "https://raw.githubusercontent.com/Luke-F-W/Luke-F-W/refs/heads/main/LukeFW.dev/ProjImages/githublogowhite.webp",
-    "lightimage": "https://raw.githubusercontent.com/Luke-F-W/Luke-F-W/refs/heads/main/LukeFW.dev/ProjImages/githublogoblack.png"
+    "lightImage": "https://raw.githubusercontent.com/Luke-F-W/Luke-F-W/refs/heads/main/LukeFW.dev/ProjImages/githublogoblack.png"
   },
   "LinkedIn": {
     "display": "LukeFW",
     "url": "https://www.linkedin.com/in/luke-f-w/",
     "darkImage": "https://raw.githubusercontent.com/Luke-F-W/Luke-F-W/refs/heads/main/LukeFW.dev/ProjImages/linkedinlogowhite.png",
-    "lightimage": "https://raw.githubusercontent.com/Luke-F-W/Luke-F-W/refs/heads/main/LukeFW.dev/ProjImages/linkedinlogoblack.png"
+    "lightImage": "https://raw.githubusercontent.com/Luke-F-W/Luke-F-W/refs/heads/main/LukeFW.dev/ProjImages/linkedinlogoblack.png"
   }
 }
