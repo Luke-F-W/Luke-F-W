@@ -23,8 +23,8 @@
       "description": "To see more works, see my GitHub.",
       "url": "https://github.com/Luke-F-W",
       "image": {
-        "light": "assets/githublogoblack.png",
-        "dark": "assets/githublogowhite.webp"
+        "light": "https://raw.githubusercontent.com/Luke-F-W/Luke-F-W/refs/heads/main/LukeFW.dev/ProjImages/githublogoblack.png",
+        "dark": "https://raw.githubusercontent.com/Luke-F-W/Luke-F-W/refs/heads/main/LukeFW.dev/ProjImages/githublogowhite.webp"
       }
     }
   ]
